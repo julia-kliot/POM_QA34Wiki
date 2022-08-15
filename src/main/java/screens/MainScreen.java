@@ -14,6 +14,8 @@ public class MainScreen extends BaseScreen {
     MobileElement detailView;
     @FindBy(xpath = "//*[@class='android.widget.ImageView']")
     MobileElement searchButton;
+    @FindBy(xpath = "//*[@resource-id='org.wikipedia:id/menu_overflow_button']")
+    MobileElement flowButton;
 
     public String getDetail() {
         return detailView.getText();
@@ -22,5 +24,10 @@ public class MainScreen extends BaseScreen {
     public SearchScreen clickOnSearchFromMainPage() {
         searchButton.click();
         return new SearchScreen(driver);
+    }
+
+    public TooltipScreen clickOnFlowBtton() {
+        flowButton.click();
+        return new TooltipScreen(driver);
     }
 }

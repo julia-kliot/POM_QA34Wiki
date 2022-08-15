@@ -1,0 +1,30 @@
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE ConfigurationWiki.setUp()[pri:0, instance:null] -1531327521
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE ConfigurationWiki.tearDown()[pri:0, instance:null] 1056384920
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE ConfigurationWiki.setUp()[pri:0, instance:tests.Login@11577e91] 64433810
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Login.login5()[pri:0, instance:tests.Login@11577e91] -1825375358
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Login.login4()[pri:0, instance:tests.Login@11577e91] -1825375141
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Login.login3()[pri:0, instance:tests.Login@11577e91] -1825375172
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Login.login2()[pri:0, instance:tests.Login@11577e91] -1825375203
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE Login.login1()[pri:0, instance:tests.Login@11577e91] -1825375234
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ADDING NODE ConfigurationWiki.tearDown()[pri:0, instance:tests.Login@11577e91] -1320859143
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ================ SORTING
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] =============== DONE SORTING
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ====== SORTED NODES
+20:05:42  DEBUG org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+20:05:52  INFO  manage.ConfigurationWiki - Starts login model---
